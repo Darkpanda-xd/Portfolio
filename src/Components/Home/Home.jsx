@@ -2,12 +2,12 @@ import React from "react";
 import "./home.css"
 
 
-const hbg2 = "../../img/h-bg2.jpg"
-const hbg = "../../img/h-bg.jpg"
-const hRightImg = "../../img/Frame 27.jpg"
-const hRightImg2 = "../../img/Frame 29.png"
-const myImg = "../../img/MY-IMG.jpg"
-const myImg2 = "../../img/Frame 28.png";
+const hbg2 = "../../Images/h-bg2.jpg"
+const hbg = "../../Images/h-bg.jpg"
+const hRightImg = "../../Images/Frame 27.jpg"
+const hRightImg2 = "../../Images/Frame 29.png"
+const myImg = "../../Images/MY-IMG.jpg"
+const myImg2 = "../../Images/Frame 28.png";
 const Home = () => {
   return (
     <div className="h-wrapper">
