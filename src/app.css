@@ -1,0 +1,30 @@
+:root{
+    --yellow: #F3CC51;
+    --background: linear-gradient(89.64deg, #746BDB -7.92%, #8359E3 95.42%, #8A52E7 151.95%);
+
+}
+
+.app{
+    padding: 0.5rem 3.5rem;
+    overflow: hidden;
+    color: black;
+}
+.btn{
+flex-direction: row;
+padding: 12px 24px;
+font-family: "ClashDisplay-Variable";
+font-weight: 500;
+font-size: 18px;
+background-image: var(--background);
+border: none;
+color: rgba(255, 255, 255, 1);
+width: 158px ;
+height: 46px ;
+}
+.btn:hover{
+    cursor: pointer;
+    border: solid 1px #835AE3;
+    background: transparent;
+    color: #835AE3;
+
+}
